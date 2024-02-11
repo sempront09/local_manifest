@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+        <remote name="github"
+                fetch="https://github.com" />
+        <!--Tree -->
+        <project path="device/realme/RMX2185" name="rembrandt09/device_realme_RMX2185" remote="github" revision="main" clone-depth="1" />
+
+</manifest>
